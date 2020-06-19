@@ -1,2 +1,2 @@
 # reinforcement-learning-
-Some code samples used while learning about reinforcement learning
+Some concepts and their applications learnt in reinforcement learning
